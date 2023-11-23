@@ -1,2 +1,3 @@
-# P3DUnity
-P3D Coursework for unity
+# P3D Unity
+
+P3D Coursework for Unity.
