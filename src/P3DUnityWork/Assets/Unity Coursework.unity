@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2160.4124, g: 2264.0784, b: 3286.6646, a: 1}
+  m_IndirectSpecularColor: {r: 2160.4124, g: 2264.0784, b: 3286.6685, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3182,7 +3182,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 1918686949}
-  m_VersionIndex: 5732
+  m_VersionIndex: 5765
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
